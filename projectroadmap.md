@@ -5,4 +5,6 @@
 - [x] Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
 - [x] Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings
 
-
+### Findings/Specifics
+- [ ] Figure out how to adapt code to my needs
+- [ ] Add new inputs for submissions/taps/sweeps/takedowns 
